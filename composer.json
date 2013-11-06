@@ -1,5 +1,5 @@
 {
-	"name": "wamdue/CakePdf",
+	"name": "wamdue/cakepdf",
 	"type": "cakephp-plugin",
         "description": "Fork of CakePdf to support dompdf 060b-3.",
 	"homepage": "http://github.com/wamdue/CakePdf",
